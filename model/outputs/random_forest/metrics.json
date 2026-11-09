@@ -1,0 +1,17 @@
+{
+    "model": "random_forest",
+    "accuracy": 0.96619,
+    "precision_malware": 0.9718786062802421,
+    "recall_malware": 0.9601568125450036,
+    "f1_malware": 0.9659821509422571,
+    "roc_auc": 0.9954927079711535,
+    "pr_auc_average_precision": 0.9958471600207541,
+    "specificity": 0.9722222222222222,
+    "false_positive_rate": 0.027777777777777776,
+    "false_negative_rate": 0.0398431874549964,
+    "true_negative": 48615,
+    "false_positive": 1389,
+    "false_negative": 1992,
+    "true_positive": 48004,
+    "train_seconds": 464.65707302093506
+}

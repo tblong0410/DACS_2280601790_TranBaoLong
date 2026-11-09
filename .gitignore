@@ -1,0 +1,7 @@
+.venv/
+ember2018/
+**/.ipynb_checkpoints/
+__pycache__/
+model/cache/
+*.joblib
+*.npz

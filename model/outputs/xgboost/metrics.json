@@ -1,0 +1,17 @@
+{
+    "model": "xgboost",
+    "accuracy": 0.95705,
+    "precision_malware": 0.9556703292320577,
+    "recall_malware": 0.9585566845347627,
+    "f1_malware": 0.9571113307969603,
+    "roc_auc": 0.9926835045531743,
+    "pr_auc_average_precision": 0.9932068503259277,
+    "specificity": 0.9555435565154787,
+    "false_positive_rate": 0.04445644348452124,
+    "false_negative_rate": 0.04144331546523722,
+    "true_negative": 47781,
+    "false_positive": 2223,
+    "false_negative": 2072,
+    "true_positive": 47924,
+    "train_seconds": 288.04825234413147
+}

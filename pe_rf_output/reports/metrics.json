@@ -1,0 +1,15 @@
+{
+    "dataset": "EMBER 2018",
+    "feature_version": 2,
+    "samples_used": 5000,
+    "feature_count": 2381,
+    "train_samples": 4000,
+    "validation_samples": 1000,
+    "accuracy": 0.891,
+    "precision": 0.884313725490196,
+    "recall": 0.9001996007984032,
+    "f1_score": 0.8921859545004945,
+    "roc_auc": 0.961499845999384,
+    "pr_auc": 0.9651768797345074,
+    "train_seconds": 0.9014434814453125
+}

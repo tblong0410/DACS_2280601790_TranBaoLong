@@ -1,0 +1,17 @@
+{
+    "model": "lightgbm",
+    "accuracy": 0.95959,
+    "precision_malware": 0.9610900407360584,
+    "recall_malware": 0.9579566365309224,
+    "f1_malware": 0.9595207805347143,
+    "roc_auc": 0.993388908157689,
+    "pr_auc_average_precision": 0.993900820247851,
+    "specificity": 0.9612231021518278,
+    "false_positive_rate": 0.03877689784817215,
+    "false_negative_rate": 0.04204336346907753,
+    "true_negative": 48065,
+    "false_positive": 1939,
+    "false_negative": 2102,
+    "true_positive": 47894,
+    "train_seconds": 129.27634501457214
+}

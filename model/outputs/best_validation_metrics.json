@@ -1,0 +1,21 @@
+{
+  "dataset": "EMBER 2018 sampled training records",
+  "feature_version": 2,
+  "samples_used": 5000,
+  "feature_count": 2381,
+  "train_samples": 4000,
+  "validation_samples": 1000,
+  "selected_model": "RF_deeper",
+  "selected_threshold_by_validation_f1": 0.5,
+  "accuracy": 0.895,
+  "precision_malware": 0.8793103448275862,
+  "recall_malware": 0.9161676646706587,
+  "f1_malware": 0.8973607038123167,
+  "roc_auc": 0.9638618554474218,
+  "pr_auc_average_precision": 0.9667355614498299,
+  "true_negative": 436,
+  "false_positive": 63,
+  "false_negative": 42,
+  "true_positive": 459,
+  "warning": "Validation metrics only; not the official EMBER test score."
+}

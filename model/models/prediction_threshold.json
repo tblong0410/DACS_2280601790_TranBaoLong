@@ -1,0 +1,5 @@
+{
+  "threshold": 0.5,
+  "selected_model": "RF_deeper",
+  "selection_basis": "Maximum malware F1 on validation data"
+}
