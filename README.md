@@ -68,7 +68,7 @@ Kết quả Validation và các biểu đồ được lưu tại `model/outputs/
 
 ## 4. Kiểm thử độc lập
 
-![Luồng kiểm thử ba mô hình](docs/image/Work_Flow_Test_Model.png)
+![Luồng kiểm thử ba mô hình](docs/image/Work_Flow_Test_Model.jpg)
 
 Cả hai bộ test sử dụng lại ba model `.joblib` đã train trên EMBER2018. **Không gọi `fit()` trong lúc test**, không sử dụng kết quả test để chỉnh tham số hoặc tối ưu ngưỡng. Ngưỡng phân loại mặc định của hai script test là **0,5**.
 
