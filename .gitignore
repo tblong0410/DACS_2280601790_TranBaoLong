@@ -1,5 +1,6 @@
 .venv/
 ember2018/
+BODMAS/
 **/.ipynb_checkpoints/
 __pycache__/
 model/cache/
